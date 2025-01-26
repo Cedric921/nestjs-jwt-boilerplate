@@ -42,7 +42,7 @@
     "rimraf": "^6.0.1",
     "rxjs": "^7.8.1",
     "typeorm": "^0.3.20",
-    "yup": "^1.4.0"
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.6.1",
